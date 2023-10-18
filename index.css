@@ -10,7 +10,6 @@ body {
     background-attachment: fixed;
     display: flex;
     justify-content: center;
-    align-items: center;
     font-family: BarlowSemiCondensed-Light;
 }
 
@@ -96,7 +95,7 @@ h3 {
 
 .upper-container>div>p:first-of-type {
     margin: 0;
-    padding: 0;
+
 }
 
 ul {
